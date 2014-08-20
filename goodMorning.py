@@ -1,0 +1,1 @@
+print "hello, and good morning!"
